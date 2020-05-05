@@ -1,0 +1,7 @@
+[requires]
+glm/0.9.9.8
+sdl2/2.0.12@bincrafters/stable
+stb/20200203
+
+[generators]
+cmake
