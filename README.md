@@ -4,6 +4,9 @@ This simple application demonstrates basic implementation of the 3D skeletal ani
   
 For more complex implementation with clips blending and ability to use state machine see [this](https://github.com/n-paukov/swengine) repository.  
 
+[![Demo](https://img.youtube.com/vi/xV0fzxvsOAo/0.jpg)](https://www.youtube.com/watch?v=xV0fzxvsOAo)
+
+
 #### How to build:
 
 ##### Prerequisites
